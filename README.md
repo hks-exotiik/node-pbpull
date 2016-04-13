@@ -5,7 +5,7 @@ NodeJs Photobucket Recent Feed riper
 ### How to run
 ```bash
 npm install
-node .
+npm start
 ```
 
 #### Disclaimer
